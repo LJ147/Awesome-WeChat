@@ -33,8 +33,9 @@
 # iOS
 
 # Android
+* [终端研发部](http://upload-images.jianshu.io/upload_images/4614633-8af7afbca8ae9de9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+更新频率高，内容原创为主。
 
 # 人工智能
 
