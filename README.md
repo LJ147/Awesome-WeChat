@@ -54,7 +54,7 @@
 ## iOS
 
 ## Android
-* [终端研发部](http://upload-images.jianshu.io/upload_images/4614633-8af7afbca8ae9de9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- [终端研发部](http://upload-images.jianshu.io/upload_images/4614633-8af7afbca8ae9de9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 更新频率高，内容原创为主。
 
@@ -62,6 +62,9 @@
 
 资讯，干货，技术，源码分享。日更。
 
+- [python之禅](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5MzgyODQxMQ==&mid=2650366816&idx=1&sn=920adb8bc7eff0ea39ba05c570ceab20&send_time=) 
+
+认真分享原创技术
 
 ## 人工智能
 
@@ -70,7 +73,10 @@
 关注人工智能、机器人🤖。每日更新，一般为 5 篇，文章质量都很高，关注领域的最新进展。
 
 * [机器之心]( http://upload-images.jianshu.io/upload_images/2208282-c2e6874ddfb003c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-* 机器学习研究会
+
+* [机器学习研究会](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NDEyMzc2Mw==&mid=2649678010&idx=1&sn=8d163be581368653930942963fa71565&send_time=)
+* [DeepTech深科技](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3NTIyODUzNA==&mid=2649535815&idx=1&sn=72ec79d6f02177535c9968577e944bb9&send_time=)
+* [深度学习大讲堂](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1NTE4NTUwOQ==&mid=2650327231&idx=1&sn=105444fe6d383adc747afd8b62c6d75e&send_time=)
 
 ## 充电阅读
 
