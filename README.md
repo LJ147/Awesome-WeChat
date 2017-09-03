@@ -9,7 +9,7 @@
 
 欢迎提 issue 推荐你看好的公众号，建议标题为“类别+公众号名称”，我会定期更新，对于已经入选的公众号存疑的也可以发起 issue 集体讨论，这里是[贡献者名单](https://github.com/LJ147/Awesome-WeChat/blob/master/Contributor.md)。
 
-# 目录：
+## 目录：
 
 - [前端](#前端)
 - [后端](#后端)
