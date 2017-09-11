@@ -8,6 +8,8 @@
 * [咸鱼君](https://github.com/YutHelloWorld)
 * [codeGoogler](https://github.com/androidstarjacksky)
 * [Kevin_ZGJ](https://github.com/zgj12138)
+* [文可](https://github.com/winston-wen)
+* [静静]()
 
 ## 掘金推荐 
 

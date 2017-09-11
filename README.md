@@ -74,13 +74,31 @@
 
 * [机器之心]( http://upload-images.jianshu.io/upload_images/2208282-c2e6874ddfb003c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+专业人工智能媒体和产业服务平台。
+
 * [机器学习研究会](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NDEyMzc2Mw==&mid=2649678010&idx=1&sn=8d163be581368653930942963fa71565&send_time=)
+
+北京大学大数据和机器学习创新中心旗下的学生组织。
+
 * [DeepTech深科技](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3NTIyODUzNA==&mid=2649535815&idx=1&sn=72ec79d6f02177535c9968577e944bb9&send_time=)
+
+麻省理工科技评论官方独家合作的新科技内容平台品牌。专注于三个方面：1、基于科学的发现； 2、真正的科技创新；3、深科技应用的创新。
+
 * [深度学习大讲堂](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1NTE4NTUwOQ==&mid=2650327231&idx=1&sn=105444fe6d383adc747afd8b62c6d75e&send_time=)
 
+更新频率较低。
 ## 充电阅读
 
 * [谷歌开发者](http://upload-images.jianshu.io/upload_images/2208282-cb241d15f1657006.GIF?imageMogr2/auto-orient/strip)
 
 Google 中国官方账号，汇聚 Android，Chrome，Angular等移动和网络开发技术，也包括一些 TensorFlow 等深度学习技术分享。更新频率高，但是偶尔会夹杂部分私货。
+
+* [微软中国MSDN](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NTE3NDgyMg==&mid=2650318955&idx=1&sn=90ac498bcd7542d98352e8eae3359286&send_time=)
+
+微软中国 MSDN 开发社区官方微信。综合类，日常 Git、C#已经 .net 等等都有，且更新勤快。
+
+
+* [算法爱好者](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI1MTIzMzI2MA==&mid=2650561343&idx=1&sn=4574e177b648ff3677037ec0fde3f48e&send_time=)
+
+算法相关文章、工具资源和算法题。
 
