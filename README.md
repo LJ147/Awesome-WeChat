@@ -7,7 +7,7 @@
 持续稳定更新
 内容干货比重大
 
-欢迎提 issue 推荐你看好的公众号，建议标题为“类别+公众号名称”，我会定期更新，对于已经入选的公众号存疑的也可以发起 issue 集体讨论，这里是![贡献者名单](https://github.com/LJ147/Awesome-WeChat/blob/master/Contributor.md)。
+欢迎提 issue 推荐你看好的公众号，建议标题为“类别+公众号名称”，我会定期更新，对于已经入选的公众号存疑的也可以发起 issue 集体讨论，这里是 [贡献者名单](https://github.com/LJ147/Awesome-WeChat/blob/master/Contributor.md)。
 
 
 ## 目录：
@@ -104,13 +104,8 @@
 
 - 架构文摘
 
-![架构文摘](http://open.weixin.qq.com/qr/code/?username=ArchDigest)
+![](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIyNjE4NjI2Nw==&mid=2652561106&idx=1&sn=f4d6697a91b2b8f23c10c7c8b30111bb&send_time=)
 
-- importNew
-
-![importNew](http://open.weixin.qq.com/qr/code/?username=importnew)
-
-伯乐在线旗下账号，Java 基础技术、进阶技能、架构设计和 Java 领域动态。
 
 
 ## iOS
@@ -125,6 +120,13 @@
 
 
 ## 充电阅读
+
+- 美团技术团队
+
+
+![](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NjQ5MTI5OA==&mid=2651749434&idx=1&sn=92dcd59d05984eaa036e7fa804fccf20&send_time=)
+
+稳定输出，质量高，业内口碑极佳。
 
 - 谷歌开发者
 
