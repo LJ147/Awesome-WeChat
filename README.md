@@ -2,6 +2,10 @@
 
 技术型干货分享公众号集合，点击公众号链接即可扫描二维码。
 
+欢迎关注我的个人技术博客：一时博客。
+
+![欢迎关注公众号：一时博客](http://upload-images.jianshu.io/upload_images/2208282-7b270098f5d1e577.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 **推荐入选标准**：
 
 持续稳定更新
